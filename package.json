@@ -3,9 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bottlejs": "^1.7.1",
+    "freactal": "^2.0.3",
+    "freactal-seed": "^0.0.8",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
-    "react-scripts": "2.0.5"
+    "react-scripts": "2.0.5",
+    "styled-components": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
